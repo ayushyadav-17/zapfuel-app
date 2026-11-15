@@ -1,0 +1,6 @@
+{
+  "name": "ZAPFUEL — Kinetic Protein Shakes & Crunch Snacks",
+  "description": "High-voltage 30g protein shakes, crunch bars, and zero-sugar power bites built with Kinetic Cyber-Pop Neo-Brutalism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

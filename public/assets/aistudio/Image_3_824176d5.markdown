@@ -1,0 +1,199 @@
+---
+name: Kinetic Cyber-Pop Neo-Brutalism
+colors:
+  surface: '#131318'
+  surface-dim: '#131318'
+  surface-bright: '#39393e'
+  surface-container-lowest: '#0e0e13'
+  surface-container-low: '#1b1b20'
+  surface-container: '#1f1f24'
+  surface-container-high: '#2a292f'
+  surface-container-highest: '#35343a'
+  on-surface: '#e4e1e9'
+  on-surface-variant: '#c4c9ac'
+  inverse-surface: '#e4e1e9'
+  inverse-on-surface: '#303035'
+  outline: '#8e9379'
+  outline-variant: '#444933'
+  surface-tint: '#abd600'
+  primary: '#ffffff'
+  on-primary: '#283500'
+  primary-container: '#c3f400'
+  on-primary-container: '#556d00'
+  inverse-primary: '#506600'
+  secondary: '#ffb1c4'
+  on-secondary: '#65002e'
+  secondary-container: '#ff4a8d'
+  on-secondary-container: '#590028'
+  tertiary: '#ffffff'
+  on-tertiary: '#0e00aa'
+  tertiary-container: '#e1e0ff'
+  on-tertiary-container: '#4446ff'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#c3f400'
+  primary-fixed-dim: '#abd600'
+  on-primary-fixed: '#161e00'
+  on-primary-fixed-variant: '#3c4d00'
+  secondary-fixed: '#ffd9e1'
+  secondary-fixed-dim: '#ffb1c4'
+  on-secondary-fixed: '#3f001a'
+  on-secondary-fixed-variant: '#8f0044'
+  tertiary-fixed: '#e1e0ff'
+  tertiary-fixed-dim: '#c0c1ff'
+  on-tertiary-fixed: '#05006c'
+  on-tertiary-fixed-variant: '#1800ec'
+  background: '#131318'
+  on-background: '#e4e1e9'
+  surface-variant: '#35343a'
+typography:
+  display-xl:
+    fontFamily: Syne
+    fontSize: 72px
+    fontWeight: '800'
+    lineHeight: 76px
+    letterSpacing: -0.03em
+  display-xl-mobile:
+    fontFamily: Syne
+    fontSize: 44px
+    fontWeight: '800'
+    lineHeight: 48px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Syne
+    fontSize: 40px
+    fontWeight: '800'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Syne
+    fontSize: 28px
+    fontWeight: '800'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Syne
+    fontSize: 24px
+    fontWeight: '700'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: Chivo
+    fontSize: 18px
+    fontWeight: '500'
+    lineHeight: 26px
+  body-md:
+    fontFamily: Chivo
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 22px
+  body-sm:
+    fontFamily: Chivo
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 18px
+  label-lg:
+    fontFamily: Space Grotesk
+    fontSize: 14px
+    fontWeight: '700'
+    lineHeight: 16px
+    letterSpacing: 0.06em
+  label-md:
+    fontFamily: Space Grotesk
+    fontSize: 12px
+    fontWeight: '700'
+    lineHeight: 14px
+    letterSpacing: 0.08em
+  label-sm:
+    fontFamily: Space Grotesk
+    fontSize: 10px
+    fontWeight: '700'
+    lineHeight: 12px
+    letterSpacing: 0.1em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.25rem
+  gutter-mobile: 0.75rem
+  margin: 2rem
+  margin-mobile: 1rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+  space-2xl: 4rem
+---
+
+## Brand & Style
+This design system fuels a hyper-energized, unapologetic protein snack and shake experience engineered for Gen Z digital natives. The brand voice is irreverent, electric, and pulse-raising—marrying the raw impact of neo-brutalism with dopamine-infused cyber-pop aesthetics.
+
+Key principles:
+- **Maximum Dopamine:** High-saturation clashes, glowing fluorescent edges, and playful kinetic tension replace sterile wellness neutrals.
+- **Neo-Brutalist Rigor:** Offset chunky drop-shadows (hard, unblurred 100% opacity depth), heavy structural black outlines, and sticker-style UI badges.
+- **Tactile Hyper-Physicality:** Interactive elements mimic tactile candy packaging, street stickers, and gaming arcade triggers. Interfaces feel punchy, fast, and intensely reactive.
+
+## Colors
+The palette operates primarily in an immersive, pitch-obsidian dark space (`#111116`) to let high-voltage fluorescent shades burst with maximum luminescence. 
+
+- **Primary (`#CCFF00` - Voltage Lime):** Primary call-to-actions, hero badges, high-impact key performance callouts, and hyperactive accents.
+- **Secondary (`#FF007F` - Cyber Magenta):** Flavor markers, energetic tags, active states, and contrast accents.
+- **Tertiary (`#2E29FF` - Cobalt Surge):** Structural interactive borders, secondary triggers, tech callouts, and electric base containers.
+- **Supporting Accents:** Sunny Yellow (`#FFE600`) for limited drops and punchy highlights; Hyper Violet (`#8A2BE2`) for depth-level card backdrops and gradients.
+- **Neutral Surface & Obsidian (`#111116`):** The canvas floor. Structural borders consistently deploy solid `#111116` when layered over neon fills, and pure `#CCFF00` or `#FF007F` when slicing against dark backgrounds.
+
+## Typography
+Typographic scale leverages stark contrast between expressive display weight and technical legibility.
+
+- **Headlines & Display (Syne):** Sculptural, punchy, wide, and aggressive. Used for hero claims, product flavor titles, macro nutrition callouts, and section breaks. Always set tightly with slight negative tracking.
+- **Body & Continuous Copy (Chivo):** Crisp, geometric grotesque with athletic velocity. Maintains legibility in tight specs, ingredients, and nutrition facts without losing edge.
+- **Labels & System Tags (Space Grotesk):** Monospaced-leaning, high-precision technical feel. Rendered in all-caps for sticker badges, protein counters, and button text.
+
+## Layout & Spacing
+The layout follows an elastic 12-column responsive fluid grid on desktop and tablet, collapsing to a high-density 4-column system on mobile devices.
+
+- **Breakpoints:** Mobile (320px–767px), Tablet (768px–1023px), Desktop (1024px+).
+- **Density:** Spacing relies on compact rhythm (`space-sm` to `space-md`) within component clusters to keep interfaces arcade-dense, while utilizing sudden hyper-scale gaps (`space-2xl`) between promotional blocks for dynamic pacing.
+- **Overlapping Planes:** Key assets (bottle renders, protein bars, nutritional badges) break container boundaries and bleed over column gutters by `0.5rem` to `1rem` to create deliberate compositional collision.
+
+## Elevation & Depth
+Depth eschews realistic diffused ambient shadows in favor of neo-brutalist hard-offset drop shadows and hyper-saturated inner glows:
+
+- **Hard-Drop Depth (Neo-Brutalist Offset):** Cards, primary buttons, and floating panels feature a 0px blur, 100% opacity offset shadow (`4px 4px 0px #000000` or `#CCFF00` on dark canvas). Active states translate by `2px 2px` towards the anchor with shadow collapsing to `2px 2px 0px`.
+- **Cyber Glow Highlighting:** Critical interactive triggers incorporate high-voltage edge halos using low-spread, saturated box-shadows (e.g., `0px 0px 16px rgba(204, 255, 0, 0.4)`).
+- **Z-Index Layering:** Stickers, floating macro stamps (e.g., "30G PROTEIN"), and flash sale tags sit atop primary surfaces with rotation transforms (`-3deg` to `+4deg`) to amplify depth and tactile play.
+
+## Shapes
+Shapes strike a dynamic equilibrium between heavy rounded containers (`0.5rem` base, `1rem` container corners) and razor-sharp accent geometry.
+
+- **Containers & Surface Cards:** Standardized at `0.5rem` (`rounded`) to provide structure while housing sticker components.
+- **Pill Badges & Stickers:** Fully rounded (`9999px` / pill-shaped) for micro-metrics, calorie tags, and filter pills.
+- **Structural Outlines:** Surfaces maintain an explicit, solid 2px or 3px stroke—grounding the candy-coated colors with graphic-novel definition.
+
+## Components
+
+- **Buttons:** 
+  - *Primary ("Turbo"):* Voltage Lime (`#CCFF00`) fill, obsidian (`#111116`) text and 2.5px border, hard offset shadow (`4px 4px 0px #111116` on light; `4px 4px 0px #FF007F` on dark). Space Grotesk uppercase label.
+  - *Secondary:* Transparent canvas with 2.5px solid neon border, pure white or neon text, active state shifts to fill.
+  - *Interaction:* On press, translate `translate(2px, 2px)` with shadow reduced to 2px offset.
+- **Sticker Badges & Macro Pills:**
+  - Pill-shaped tags (`9999px` radius) with high-contrast fills (e.g., Punchy Pink `#FF007F` with White text, or Voltage Lime `#CCFF00` with Dark text).
+  - Skewed `-2deg` or `+3deg` in hero product compositions to mimic physical product decals.
+- **Cards (Snack & Shake Display):**
+  - Dark obsidian background (`#16161D`) bounded by a 2px stroke in Cobalt Blue (`#2E29FF`) or Voltage Lime.
+  - Hard drop shadow (`6px 6px 0px #000000`). Product packaging floats outside the top card boundary.
+  - Top-right corner houses dynamic floating pill counters for grams of protein and BCAAs.
+- **Input Fields:**
+  - Heavy 2px solid border (`#2E29FF`), dark surface fill, high-contrast neon focus states with an inner glow. Placeholder copy in muted lilac gray.
+- **Checkboxes & Radios:**
+  - Chunky custom squares/circles with a 2px black border, solid Voltage Lime fill when checked, populated by a thick, razor-edged checkmark glyph.
+- **Flavor Selector Chips:**
+  - Segmented pill chips with colored thumbnail dot indicator; selected state pops with full-color saturation and a 2px offset shadow.
+- **Nutrition Metric HUD (Custom Component):**
+  - Ultra-condensed technical data tiles showcasing Protein, Carbs, Calories, and Sugar with high-contrast vertical dividers, styled like racing telemetry or arcade stat counters.
